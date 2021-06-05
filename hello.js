@@ -1,1 +1,1 @@
-console.log("hello World");
+console.log("This is a sample message");
